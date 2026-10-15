@@ -33,3 +33,5 @@
 - `app/features.py`, `make_data.py`, `train.py` الميزات وتوليد البيانات والتدريب
 - `data/` الفعاليات والقاعات والتدريب
 - `static/` الواجهة
+
+التصميم (Figma): https://www.figma.com/design/uXDRYiSIa3ZR9xstdpXGJV/
