@@ -1,0 +1,31 @@
+id,hall,start,end,tags,audience,title_ar,title_en,desc_ar,desc_en
+1,A,10:00,11:30,tech;business,all,الذكاء الاصطناعي في حياتنا اليومية,AI in Everyday Life,جلسة تعرض تطبيقات الذكاء الاصطناعي في الصحة والتعليم والخدمات.,"A session on AI applications in health, education and services."
+2,A,12:00,13:00,tech,all,الأمن السيبراني للجميع,Cybersecurity for Everyone,كيف تحمي بياناتك وحساباتك بخطوات بسيطة.,Simple steps to protect your data and accounts.
+3,A,14:00,15:30,tech;business,all,التقنية المالية وبنوك المستقبل,Fintech and Future Banking,نظرة على المدفوعات الرقمية وخدمات البنوك القادمة.,A look at digital payments and the banking services ahead.
+4,A,16:00,17:30,tech,all,مستقبل التنقل الذكي,Future of Smart Mobility,سيارات ذاتية القيادة ومدن مترابطة.,Self-driving cars and connected cities.
+5,A,18:00,19:30,tech;entertainment,all,تجربة الواقع الافتراضي,Virtual Reality Experience,جرّب عوالم افتراضية بنفسك مع مختصين.,Try virtual worlds yourself with specialists.
+6,B,10:00,11:30,kids;tech,kids,ورشة الروبوتات للصغار,Robotics Workshop for Kids,ورشة عملية يتعرف فيها الأطفال على أساسيات الروبوتات.,A hands-on workshop introducing children to robotics basics.
+7,B,12:00,13:00,kids;art,kids,مسرح الدمى التفاعلي,Interactive Puppet Theatre,عرض مسرحي يشارك فيه الأطفال مع الدمى.,A stage show where children join the puppets.
+8,B,14:00,15:30,tech;kids,all,ابنِ روبوتك بنفسك,Build Your Own Robot,للأطفال والكبار: تركيب روبوت صغير وبرمجته.,For kids and adults: assemble and program a small robot.
+9,B,16:00,17:30,kids;tech,kids,رحلة الفضاء التفاعلية,Interactive Space Journey,رحلة تعليمية ممتعة بين الكواكب.,A fun educational trip across the planets.
+10,B,18:00,19:30,culture;kids,all,حكايات من التراث,Tales from Heritage,حكايات تراثية تُروى للصغار والكبار.,Heritage stories told for young and old.
+11,C,10:00,11:30,art;culture,all,العمارة السعودية المعاصرة,Contemporary Saudi Architecture,حوار مع معماريين حول هوية العمارة المحلية.,A talk with architects on local architectural identity.
+12,C,12:00,13:30,art;culture,all,ورشة الخط العربي,Arabic Calligraphy Workshop,تعلّم أساسيات الخط العربي بيدك.,Learn the basics of Arabic calligraphy by hand.
+13,C,14:00,15:30,art;entertainment,all,عرض الأضواء والفن الرقمي,Lights and Digital Art Show,عرض بصري يجمع الضوء والموسيقى والفن الرقمي.,"A visual show combining light, music and digital art."
+14,C,16:00,17:30,art,all,معرض التصوير الفوتوغرافي,Photography Exhibition,صور من مدن المملكة وناسها.,Photographs of the Kingdom's cities and people.
+15,C,18:00,19:30,culture;art,all,أمسية الشعر والموسيقى,Poetry and Music Evening,أمسية تجمع الشعر والموسيقى.,An evening of poetry and music.
+16,D,10:00,11:30,food,all,سوق المنتجات المحلية,Local Products Market,منتجات غذائية وحرفية من المنتجين المحليين.,Food and craft products from local makers.
+17,D,12:00,13:30,food;culture,all,عرض الطهي الحي: أطباق المناطق,Live Cooking: Regional Dishes,طهاة يحضّرون أطباقاً من مناطق المملكة أمام الجمهور.,Chefs prepare dishes from across the Kingdom live.
+18,D,14:00,15:30,food,all,جولة تذوّق المطاعم المحلية,Local Restaurants Tasting Tour,تذوّق أطباق من مطاعم محلية مختارة.,Taste dishes from selected local restaurants.
+19,D,16:00,17:30,food;culture,all,مسابقة القهوة السعودية,Saudi Coffee Competition,مسابقة لأفضل إعداد للقهوة السعودية.,A contest for the best Saudi coffee preparation.
+20,D,18:00,19:30,food;kids,kids,مخبز الصغار,Little Bakers,ورشة خبز مبسّطة للأطفال.,A simple baking workshop for children.
+21,E,10:30,12:00,entertainment;kids,kids,ساحة الألعاب العائلية,Family Games Arena,ألعاب جماعية للأطفال وأسرهم.,Group games for children and their families.
+22,E,12:30,14:00,entertainment;tech,all,عروض الألعاب الإلكترونية,Esports Showcase,مباريات استعراضية في الرياضات الإلكترونية.,Exhibition matches in esports.
+23,E,14:30,16:00,entertainment,all,حفل موسيقي مباشر,Live Concert,حفل موسيقي مباشر على المسرح الرئيسي.,A live concert on the main stage.
+24,E,16:30,18:00,culture;entertainment,all,عروض الفنون الشعبية,Folk Arts Performances,فرق فنون شعبية من مناطق مختلفة.,Folk art troupes from different regions.
+25,E,18:30,20:00,culture;entertainment,all,الحفل الختامي,Closing Ceremony,حفل ختام اليوم بعروض مشتركة.,The day's closing ceremony with joint performances.
+26,F,10:30,12:00,business,all,الاستثمار في السياحة,Investing in Tourism,فرص الاستثمار في قطاع السياحة.,Investment opportunities in the tourism sector.
+27,F,12:30,14:00,business;culture,all,ريادة الأعمال الثقافية,Cultural Entrepreneurship,كيف تحوّل مشروعاً ثقافياً إلى عمل مستدام.,Turning a cultural project into a sustainable business.
+28,F,14:30,16:00,business;tech,all,جلسة المستثمرين والشركات الناشئة,Investors Meet Startups,عروض قصيرة من شركات ناشئة أمام مستثمرين.,Short pitches from startups before investors.
+29,F,16:30,18:00,business,all,ريادة الأعمال: من الفكرة إلى السوق,Entrepreneurship: Idea to Market,خطوات عملية لإطلاق مشروعك.,Practical steps to launch your venture.
+30,F,18:30,20:00,business,all,حوار مفتوح مع مؤسسي الشركات,Open Dialogue with Founders,أسئلة مفتوحة مع مؤسسين ناجحين.,Open Q&A with successful founders.

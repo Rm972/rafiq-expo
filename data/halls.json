@@ -1,0 +1,44 @@
+{
+ "entrance": {
+  "name_ar": "المدخل الرئيسي",
+  "name_en": "Main Entrance",
+  "x": 300,
+  "y": 370
+ },
+ "A": {
+  "name_ar": "قاعة الابتكار",
+  "name_en": "Innovation Hall",
+  "x": 90,
+  "y": 90
+ },
+ "B": {
+  "name_ar": "قاعة الأطفال",
+  "name_en": "Kids Hall",
+  "x": 300,
+  "y": 70
+ },
+ "C": {
+  "name_ar": "قاعة الفنون",
+  "name_en": "Arts Hall",
+  "x": 510,
+  "y": 90
+ },
+ "D": {
+  "name_ar": "قاعة الثقافة والطعام",
+  "name_en": "Culture & Food Hall",
+  "x": 90,
+  "y": 250
+ },
+ "E": {
+  "name_ar": "مسرح الترفيه",
+  "name_en": "Entertainment Stage",
+  "x": 300,
+  "y": 230
+ },
+ "F": {
+  "name_ar": "قاعة الأعمال",
+  "name_en": "Business Hall",
+  "x": 510,
+  "y": 250
+ }
+}
